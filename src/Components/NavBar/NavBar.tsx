@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import * as S from "./Navbar.style.tsx";
+import * as S from "./Navbar.style";
 
 type Props = {
   navElts?: Array<{

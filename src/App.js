@@ -1,10 +1,14 @@
 import './App.css';
-import HomePage from './Components/HomePage.tsx';
+import Home from "./Components/HomePage/Home";
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <Home />
+
     </div>
   );
 }

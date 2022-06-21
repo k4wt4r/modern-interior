@@ -1,5 +1,5 @@
-import * as S from "./Homepage.style.tsx";
-import NavBar from "./NavBar.tsx";
+import * as S from "./HomePage.style";
+import NavBar from "../NavBar/NavBar";
 
 function HomePage() {
   return (
